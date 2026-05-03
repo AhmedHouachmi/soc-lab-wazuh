@@ -25,6 +25,7 @@ Built a hands-on SOC environment to detect and analyze cyber attacks using Wazuh
 
 ### Wazuh Dashboard
 ![Dashboard](/wazuh.dashboard.png)
+Wazuh detected repeated failed SSH login attempts, indicating a brute force attack.
 
 ### Nmap scan 
 ![Nmap](/attack.scan.png)
